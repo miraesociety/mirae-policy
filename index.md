@@ -5,6 +5,12 @@
 책자 다운로드(구글 드라이브 pdf 링크)
 
 
+| ------:| -----------:|
+| 발행일   | path to data files to supply the data that will be passed into templates. |
+| 발행처 | engine to be used for processing templates. Handlebars is the default. |
+| 다운로드    | extension to be used for dest files. |
+
+
 ## 목차
 
 * [낙태죄 폐지 이후, 더 나은 임신 중단권](##낙태죄-폐지-이후,-더-나은-임신-중단권)
