@@ -4,7 +4,7 @@
 
 책자 다운로드(구글 드라이브 pdf 링크)
 
-
+| Option | Description |
 | ------:| -----------:|
 | 발행일   | path to data files to supply the data that will be passed into templates. |
 | 발행처 | engine to be used for processing templates. Handlebars is the default. |
