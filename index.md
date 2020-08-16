@@ -1,14 +1,9 @@
 # 우리가 만드는 정책백서
 
-2020년 8월 21일, [미래사회연구소](https://miraesociety.wordpress.com/) 발행
 
-책자 다운로드(구글 드라이브 pdf 링크)
-
-| Option | Description |
-| ------:| -----------:|
-| 발행일   | path to data files to supply the data that will be passed into templates. |
-| 발행처 | engine to be used for processing templates. Handlebars is the default. |
-| 다운로드    | extension to be used for dest files. |
+| 발행일   | 2020년 8월 21일 |
+| 발행처 | [미래사회연구소](https://miraesociety.wordpress.com/) |
+| 다운로드    | 책자 다운로드(구글 드라이브 pdf 링크) |
 
 
 ## 목차
