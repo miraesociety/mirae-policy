@@ -1,8 +1,9 @@
 # 우리가 만드는 정책백서
 
-2020년 8월 21일
+2020년 8월 21일, [미래사회연구소](https://miraesociety.wordpress.com/) 발행
 
-[미래사회연구소](https://miraesociety.wordpress.com/) 발행
+책자 다운로드(구글 드라이브 pdf 링크)
+
 
 ## 목차
 
