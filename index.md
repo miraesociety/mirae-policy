@@ -1,24 +1,16 @@
 # 정책백서
 ## 목차
 
-* [team 1](team1.md)
-* [team 1](team1.md)
-* [team 1](team1.md)
-* [team 1](team1.md)
-* [team 1](team1.md)
-* [team 1](team1.md)
+* [team 1](##team-1)
+* [team 2](##team-2)
 
 
-[jump to team 1 report](#team-1-report)
+## team 1
 
 
 
 
-
-
-
-
-
+## team 2
 
 
 
@@ -54,8 +46,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-
-# team 1 report
 
 ### Jekyll Themes
 
