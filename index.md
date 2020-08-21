@@ -5,6 +5,8 @@
 
 발행처 | [미래사회연구소](https://miraesociety.wordpress.com/)
 
+편집 | 김민경, 노세영
+
 책자 다운로드(구글 드라이브 pdf 링크)
 
 
