@@ -23,14 +23,13 @@
 # 목차
 
 ### [낙태죄 폐지 이후, 더 나은 임신 중단권](#낙태죄-폐지-이후,-더-나은-임신-중단권)  [:open_file_folder:](team6)
-### [디지털 성범죄 방지를 위한 청소년 의무교육](#디지털-성범죄-방지를-위한-청소년-의무교육)  [:open_file_folder:](team5)
 ### [성차별적 뉴미디어 광고 개선](#성차별적-뉴미디어-광고-개선)  [:open_file_folder:](team4)
 ### [공교육 개정을 통한 국민적 성차별 개선](#공교육-개정을-통한-국민적-성차별-개선)  [:open_file_folder:](team3)
-### [여성노인이 타겟이 되는 노인학대 방지 및 피해자 구제](#여성노인이-타겟이-되는-노인학대-방지-및-피해자-구제)  [:open_file_folder:](team2)
 
 
 
-
+<!--- ### [디지털 성범죄 방지를 위한 청소년 의무교육](#디지털-성범죄-방지를-위한-청소년-의무교육)  [:open_file_folder:](team5)--->
+<!--- ### [여성노인이 타겟이 되는 노인학대 방지 및 피해자 구제](#여성노인이-타겟이-되는-노인학대-방지-및-피해자-구제)  [:open_file_folder:](team2) --->
 
 _________________
 
@@ -80,45 +79,6 @@ _________________
 * 윤정원 (2018). 배틀그라운드 낙태죄를 둘러싼 성과 재생산의 정치. 서울: 후마니스타스.
 * [설상미 (2020). 낙태약 '미프진' 비밀거래 고발. 일요시사.](http://www.ilyosisa.co.kr/news/articleView.html?idxno=216833)
 * 한국보건사회연구원 (2018). 인공임신중절 실태조사. 세종: 보건복지부, 한국보건사회연구원.
-
-
-_________________
-
-
-
-## 디지털 성범죄 방지를 위한 청소년 의무교육 (수정 필요)
-발의인: 김정은, 정지혜, 황슬기
-
-### 현황 및 문제점
-* 디지털
-
-### 목표
-* 청소년에
-
-### 이행 방법
-#### 청소년 디지털 성범죄 가해자 양산을 막기 위해 기존 의무교육과정에서 실시하던 성교육 프로그램의 수정 및 보완
-- 성범죄의
-
-#### 의무교육과정 내 성교육 프로그램의 원활한 진행을 위한 조치
-- 학교별
-
-#### 기존 성교육 과목 관련 교과(체육, 도덕 등) 시수를 조정하여 일정 시수 확보
-- 일정
-
-#### 청소년 디지털 성범죄가 발발할 경우에 취할 조치를 사전에 습득할 필요가 있음
-- 디지털
-
-#### 성범죄 발생 시 가해자에 대한 처분과 피해자 보호 방안을 미리 마련할 것
-- 교내
-
-### 이행 기간
-* 21대 국회 임기인 2024년까지
-
-### 재원조달방법
-* 일반회계, 초중등교육지원 특별회계, 지방교육재정교부금으로 조달한다.
-
-### 참고자료
-* ?
 
 
 _________________
@@ -263,6 +223,45 @@ _________________
 _________________
 
 
+
+
+## 디지털 성범죄 방지를 위한 청소년 의무교육 (수정 필요)
+발의인: 김정은, 정지혜, 황슬기
+
+### 현황 및 문제점
+* 디지털
+
+### 목표
+* 청소년에
+
+### 이행 방법
+#### 청소년 디지털 성범죄 가해자 양산을 막기 위해 기존 의무교육과정에서 실시하던 성교육 프로그램의 수정 및 보완
+- 성범죄의
+
+#### 의무교육과정 내 성교육 프로그램의 원활한 진행을 위한 조치
+- 학교별
+
+#### 기존 성교육 과목 관련 교과(체육, 도덕 등) 시수를 조정하여 일정 시수 확보
+- 일정
+
+#### 청소년 디지털 성범죄가 발발할 경우에 취할 조치를 사전에 습득할 필요가 있음
+- 디지털
+
+#### 성범죄 발생 시 가해자에 대한 처분과 피해자 보호 방안을 미리 마련할 것
+- 교내
+
+### 이행 기간
+* 21대 국회 임기인 2024년까지
+
+### 재원조달방법
+* 일반회계, 초중등교육지원 특별회계, 지방교육재정교부금으로 조달한다.
+
+### 참고자료
+* ?
+
+
+
+
 ## 리터러시 (!! 수정 중)
 발의인: 이정연, 임승희
 
@@ -272,37 +271,3 @@ _________________
 ### 이행기간
 ### 재원조달방법
 ### 참고자료
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miraesociety/miraesociety.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
