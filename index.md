@@ -13,9 +13,11 @@
 
 *"정책 만드는 사람들"은 2020년 6월부터 8월까지, 총 8주간 진행되었습니다.*
 
-미래사회연구소 홈페이지 [바로가기](https://miraesociety.wordpress.com)
+*미래사회연구소 홈페이지 [바로가기](https://miraesociety.wordpress.com)*
 
-미래사회연구소 후원 MD [사러가기](https://marpple.shop/kr/miraesociety)
+*미래사회연구소 후원 MD [사러가기](https://marpple.shop/kr/miraesociety)*
+
+
 _________________
 
 _________________
