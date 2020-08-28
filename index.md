@@ -4,9 +4,9 @@
 |-------|---------------------|
 | 발행일 | 2020년 8월 28일 |
 | 발행처 | [미래사회연구소](https://miraesociety.wordpress.com/)|
-| 편집 | 김민경, 노세영 |
-| 지도 | 김민경, 남윤지, 노세영, 이예슬, 한지영 |
 | 발의인 | 강하영, 경지영, 김누림, 김수련, 김시현, <br>김정은, 김혜린, 서미연, 이녕민, 이정연, <br>임승희, 임유리, 정지혜, 정초원, 조유미, <br>황슬기 |
+| 지도 | 김민경, 남윤지, 노세영, 이예슬, 한지영 |
+| 편집 | 김민경, 노세영 |
 | 책자 다운로드 | [Github](https://github.com/miraesociety/mirae-policy-01/blob/master/%E1%84%8B%E1%85%AE%E1%84%85%E1%85%B5%E1%84%80%E1%85%A1_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%A2%E1%86%A8%E1%84%87%E1%85%A2%E1%86%A8%E1%84%89%E1%85%A5_1%E1%84%92%E1%85%A9_0828.pdf)      [GoogleDrive](https://drive.google.com/file/d/1_bDmTkaTOZ0p_VzRYpSVjHiVzBDbBjJQ/view?usp=sharing) |
 
 
